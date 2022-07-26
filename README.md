@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jainyash2699
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Yash jain
+- 👀 I’m interested in Marketing and HRM
+- 🌱 I’m currently learning Digital Marketing
+- 💞️ Pursuing MBA at IIM Bodhgaya
+- 📫 Reach me through mail - yashjain2699@gmail.com
 
 <!---
 jainyash2699/jainyash2699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
